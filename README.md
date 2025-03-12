@@ -1,5 +1,7 @@
 # 160122771059 | Sasi Vakul Rithwik | AI&DS - 1 Sem VI | Batch 2
 # IVA Assignment-1
+[code : main.ipynb]
+[images used : nature.jpg, persons1.jpg, red.jpg]
 
 ## 1. Color Detection
 - Loaded an image and determined its dominant color using K-Means clustering.
